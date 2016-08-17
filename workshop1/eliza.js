@@ -31,6 +31,14 @@ var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
+  "~*x violin ~*y":[
+  	"Do you like to play violin?"
+  	"I enjoy playing violin, do you?"
+  	"I hate music."
+  	"Don't practice when I am asleep."
+  	"Ensembles are fun."
+  	"I wish you pass the audition."
+  	],
   "~*x computer ~*y": [
     "Do computers worry you?",
     "What do you think about machines have to do with your problem?",
